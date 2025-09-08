@@ -1,6 +1,6 @@
-# FUTURE_CS_01 – Web Application Security Testing
+ Web Application Security Testing
 
-This repository contains my work for **Task 1** of the Cybersecurity Internship at [Future Interns](https://www.linkedin.com/company/future-interns/).
+This repository contains my work for **Task ** of the Cybersecurity 
 
 ---
 
@@ -51,11 +51,9 @@ Conduct security testing on a sample web application to identify common vulnerab
 
 ---
 
-## 📌 Internship Details
 
-- **Track:** Cybersecurity
-- **Task:** 01 – Web Application Security Testing
-- **Internship Provider:** [Future Interns](https://futureinterns.com)
+- **Task:** 01  – Web Application Security Testing
+
 
 ---
 
